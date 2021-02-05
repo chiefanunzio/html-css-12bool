@@ -1,0 +1,19 @@
+[class*="col-"]{
+  background-color: lightpink;
+  border: 1px solid #000;
+  text-align: center;
+}
+
+.text{
+  line-height: 200px;
+}
+
+.red{
+  background-color: red;
+  border:1px solid white;
+  width: 100%;
+}
+
+.pad{
+  padding: 5px;
+}
